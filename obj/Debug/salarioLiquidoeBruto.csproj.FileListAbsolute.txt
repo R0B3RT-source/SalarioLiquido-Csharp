@@ -1,0 +1,10 @@
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\bin\Debug\salarioLiquidoeBruto.exe.config
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\bin\Debug\salarioLiquidoeBruto.exe
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\bin\Debug\salarioLiquidoeBruto.pdb
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.Form1.resources
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.Properties.Resources.resources
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.exe
+C:\Users\Desktop\source\repos\salarioLiquidoeBruto\obj\Debug\salarioLiquidoeBruto.pdb
